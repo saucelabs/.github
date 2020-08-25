@@ -11,8 +11,8 @@ If you encounter a bug or have an idea to improve the project, that's great! Don
 
 ## Question on Sauce Labs and its platform
 
-For general inquiries on Sauce Labs and its platform please reach out to our support team at `support@saucelabs.com`.
+For general inquiries on Sauce Labs and its platform please reach out to our support team at [support@saucelabs.com](mailto:support@saucelabs.com).
 
 ## Contributions
 
-See `CONTRIBUTING.md` in the root directory of this repository.
+See `CONTRIBUTING.md` in the root directory of the project.
